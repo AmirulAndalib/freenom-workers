@@ -1,4 +1,4 @@
-<h4 align="center">此为PushPlus渠道推送的测试版，可通过PushPlus API向微信推送续期结果。感谢 [xiaoxiyao](https://github.com/xiaoxiyao) ！</h4>
+<h4 align="center">此为PushPlus渠道推送的测试版，可通过PushPlus API向微信推送续期结果。</h4>
 
 <h4 align="center">通过Cloudflare Workers自动续期Freenom域名(.cf .ga .gq .ml .tk)。</h4>
 
@@ -14,6 +14,9 @@
 <p align="center">
  喜欢这个项目？给颗Star吧！
 </p>
+
+感谢[xiaoxiyao](https://github.com/xiaoxiyao)！
+
 
 ## 部署
 
